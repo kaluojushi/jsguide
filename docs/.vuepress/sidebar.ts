@@ -4,10 +4,18 @@ export default {
       title: 'JS部分',
       collapsable: true,
       children: [
-        'js/exp',
-        'js/js-advanced-155',
+        '01.JS部分/exp',
+        '01.JS部分/select',
+        '01.JS部分/01.JS部分-advanced-155',
       ],
-    }
+    },
+    {
+      title: 'HTML部分',
+      collapsable: true,
+      children: [
+        '02.HTML部分/exp',
+      ],
+    },
   ],
   '/': [],
 };
