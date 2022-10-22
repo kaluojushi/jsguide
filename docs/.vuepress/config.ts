@@ -6,6 +6,7 @@ module.exports = {
   description: 'JS Guide for Frontend Development Interviews',
   head: [
     ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
+    ['link', { rel: 'apple-touch-icon', href: '/assets/apple-touch-icon.png' }],
   ],
   theme: 'vdoing',
   themeConfig,

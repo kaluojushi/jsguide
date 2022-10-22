@@ -1,5 +1,5 @@
 ---
-title: 笔试题
+title: 笔试相关
 lang: zh-CN
 date: 2022-10-21 12:24:13
 permalink: /exam/
