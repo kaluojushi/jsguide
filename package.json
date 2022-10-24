@@ -21,6 +21,11 @@
   "homepage": "https://github.com/kaluojushi/jsguide#readme",
   "devDependencies": {
     "vuepress": "^1.9.7",
+    "vuepress-plugin-element-ui": "^1.1.0",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
     "vuepress-theme-vdoing": "^1.12.8"
+  },
+  "dependencies": {
+    "core-js": "^2.6.12"
   }
 }

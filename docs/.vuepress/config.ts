@@ -16,4 +16,8 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
+  plugins: [
+    'one-click-copy',
+    'element-ui',
+  ],
 };
