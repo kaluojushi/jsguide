@@ -2,16 +2,19 @@
 home: true
 heroImage: /assets/homepage.png
 heroText: 📚一份前端面试指南
-tagline: 前端面试指南
+tagline: 我实在是太菜了，我需要一份面试指南
 actionText: 开始 →
 actionLink: /guide/
 bannerBg: none
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: JS、CSS、HTML……
+  details: 基础不牢，地动山摇。
+  link: /guide/js/points/
+- title: 拳打笔试
+  details: 笔试题目，不要怕，只要你肯努力。
+  link: /exam/
+- title: 脚踢面试
+  details: 自信！
+  link: /interview/
 postList: none
 ---
