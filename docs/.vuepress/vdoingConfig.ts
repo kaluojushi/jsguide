@@ -8,7 +8,7 @@ export default {
   sidebar: 'structuring',
   author: {
     name: '卡洛',
-    link: 'https://corecabin.cn',
+    link: '/about/author/',
   },
   footer: {
     createYear: 2022,
