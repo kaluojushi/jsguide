@@ -18,3 +18,16 @@ features:
   link: /interview/
 postList: none
 ---
+
+## 这里有一些 [学习资源](/resources/)
+
+- [学习资源](/resources/)
+
+## 你可能还想看
+
+- [关于本站](/about/jsguide/)
+- [关于作者](/about/author/)
+- [更新历史](/about/timeline/)
+- [贡献指南](/about/contribution/)
+- [常见问题](/about/faq/)
+
