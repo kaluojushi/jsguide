@@ -16,6 +16,7 @@ export default [
   { text: '笔试', link: '/exam/' },
   { text: '面试', link: '/interview/' },
   { text: '资源', link: '/resources/' },
+  { text: '资讯', link: '/info/' },
   {
     text: '更多',
     ariaLabel: 'more',
